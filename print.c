@@ -5,5 +5,6 @@ int main()
   printf("hi i am dhanalakhsmi\n");
   printf("hi\n");
   printf("hi vijay\n");
+  printf("hi yashu\n");
 }
 
